@@ -1,4 +1,9 @@
 # JarvisAIvoiceAssistant
+Jarvis AI Destop personal voice Assistant and text to speech converter: これはAIベースのパーソナルアシスタントで、音声をテキストに変換し、音声をテキストに変換し、音声を再生し、任意のブラウズを開くのに役立ち、電子メールを送信するのに役立ちます。
+
+あなたは今までそれがあなた自身の個人的なアシスタントを持つことがいかにいいだろう考えたことがありますか？例えば、1つの音声コマンドで音楽を再生したり、ウェブブラウザを開かずにウィキペディアを検索するように、1つの音声コマンドで複数のブラウザを開いたりするような、数多くの日常的なタスクを達成することがどれほど簡単になるかを考えてみてください。
+
+---------------------------------------
 // Jarvis AI Destop personal voice Assistant and text to speech converter: This is AI based personal assistant which convert speech to text , audio to text , play audio, helps to open any browse, helps to send email .
 
 Have you ever considered how nice it would be to have your own personal assistant? Consider how much simpler it would be to accomplish numerous daily tasks, such as playing music with a single speech command or opening several browsers with a single voice command, like searching Wikipedia without opening web browsers.
